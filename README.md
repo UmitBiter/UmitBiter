@@ -3,7 +3,7 @@
 </div>
 
 <br>
-<h1 align="center" style="color: blue;">Hi 👋, I'm Ümit</h1>
+<h1 align="center" style="color: blue;">Hi, I'm Ümit</h1>
 
 <h3 align="center">A 15 Years Old Web Developer</h3>
 <img align="right" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
@@ -22,22 +22,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
+## Discord And Github data
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umitbiter" alt="umitbiter" /></a> </p>
+<div style="display: flex; flex-direction: column">
+  <div style="display: flex; flex-direction: row">
+    <img
+	style="min-width: 134px; max-height: 134px;"
+	 width="320"
+        src="https://lanyard-profile-readme.vercel.app/api/718368309896151121?theme=dark&bg=000000&animated=false&borderRadius=10px"
+     />
+     <img
+	style="min-width: 164px;"
+	height="164"
+        src="https://streak-stats.demolab.com/?user=umitbiter&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      />
+   </div>
+   <div style="display: flex; flex-direction: column">
+      <img
+	width="743"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umitbiter&theme=midnight_purple"
+      />
+   </div
+</div>
 <hr>
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/umit.jsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umit.jsx" height="30" width="40" /></a>
- 
-</p>
-<hr>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umitbiter&show_icons=true&locale=en&layout=compact" alt="umitbiter" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umitbiter&show_icons=true&locale=en" alt="umitbiter" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umitbiter&" alt="umitbiter" /></p>
