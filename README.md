@@ -29,19 +29,24 @@
     <img
 	style="min-width: 134px; max-height: 134px;"
 	 width="320"
-        src="https://lanyard-profile-readme.vercel.app/api/718368309896151121?theme=dark&bg=000000&animated=false&borderRadius=10px"
+        src="https://lanyard-profile-readme.vercel.app/api/718368309896151121?theme=dark&bg=02052E&animated=false&borderRadius=10px"
      />
      <img
 	style="min-width: 164px;"
 	height="164"
-        src="https://streak-stats.demolab.com/?user=umitbiter&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=algolia"
       />
+	  
    </div>
    <div style="display: flex; flex-direction: column">
       <img
 	width="743"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umitbiter&theme=midnight_purple"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umitbiter&theme=algolia"
       />
+	<img   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=algolia"/>
+	   <img   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=algolia&utcOffset=8"/>
+	   
    </div
+	   
 </div>
 <hr>
