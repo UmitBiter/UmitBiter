@@ -34,7 +34,7 @@
      <img
 	style="min-width: 164px;"
 	height="164"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=algolia"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=umitbiter&theme=algolia"
       />
 	  
    </div>
@@ -43,8 +43,10 @@
 	width="743"
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umitbiter&theme=algolia"
       />
-	<img   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=algolia"/>
-	   <img   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=algolia&utcOffset=8"/>
+	<img   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umitbiter&theme=algolia"/>
+	   <img   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umitbiter&theme=algolia&utcOffset=8"/>
+       <img    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=umitbiter&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+
 	   
    </div
 	   
