@@ -1,5 +1,5 @@
  <div>
-<img style="border-radius: 25px;" align="center" src="https://i.hizliresim.com/szn3re6.png">
+<img style="border-radius: 25px;" align="center" src="https://i.hizliresim.com/755pfgs.png">
 </div>
 
 <br>
