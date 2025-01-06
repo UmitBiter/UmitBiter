@@ -5,11 +5,10 @@
 <br>
 <h1 align="center" style="color: blue;">Hi, I'm Ümit</h1>
 
-<h3 align="center">A 15 Years Old Web Developer</h3>
+<h3 align="center"> Web Developer</h3>
 <img align="right" width="400" src="https://www.optimalvirtualemployee.com/wp-content/uploads/2023/01/front-end-development.gif">
  <h3 align="left">About Me</h3>
 <ul>
- <li>15 Years Old</li>
  <li>Web Development</li>
  <li><p align="left"> <img src="https://komarev.com/ghpvc/?username=umitbiter&label=Profile%20views&color=0e75b6&style=flat" alt="umitbiter" /> </p></li>
 </ul>
